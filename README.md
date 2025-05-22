@@ -17,9 +17,9 @@ Some of the areas I work in include:
 ## 🌩️ Cloud Certifications
 
 <p align="center">
-  <img src="images/AWS_C.png" alt="AWS" width="120"/>
-  <img src="images/GCP_C.png" alt="GCP" width="120"/>
-  <img src="images/Azure_C_2.png" alt="Azure" width="120"/>
+  <img src="images/AWS_C.png" alt="AWS" width="200"/>
+  <img src="images/GCP_C.png" alt="GCP" width="200"/>
+  <img src="images/Azure_C.png" alt="Azure" width="200"/>
 </p>
 
 I hold professional certifications from all three major cloud providers:
