@@ -32,9 +32,7 @@ I hold professional certifications from all three major cloud providers:
 
 ## Repositories
 
-**ML/AI Lab: 🧠**
-
-This is the space where I upload differents reviews of AI and ML Contents plus code!  
+**🧠 ML/AI Lab:** This is the space where I upload differents reviews of AI and ML Contents plus code!  
 
 🔗 (https://github.com/anvaldes/AI_ML_Lab)
 
