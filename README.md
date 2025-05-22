@@ -41,5 +41,5 @@ I hold professional certifications from all three major cloud providers:
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
 
 📫 alberto.valdes.gonzalez.96@gmail.com  
-🔗 [linkr.bio/beto_valdes_g](https://linkr.bio/beto_valdes_g)
-
+🔗 [Linkr](https://linkr.bio/beto_valdes_g)
+💼 [Linkedin](https://www.linkedin.com/in/alberto-andres-valdes-gonzalez)
