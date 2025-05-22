@@ -26,9 +26,9 @@ With a strong academic foundation in **Applied Mathematics**, **Optimization**, 
 
 I hold professional certifications from all three major cloud providers:
 
+- 🟨 AWS Certified Machine Learning – Specialty
+- 🟥 Google Cloud Professional Machine Learning Engineer    
 - 🟦 Microsoft Azure AI Engineer Associate  
-- 🟨 AWS Certified Machine Learning – Specialty  
-- 🟥 Google Cloud Professional Machine Learning Engineer  
 
 ## Repositories
 
