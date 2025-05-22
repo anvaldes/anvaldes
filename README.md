@@ -14,6 +14,8 @@ Some of the areas I work in include:
 - **OCR**, **NER** 
 - **Time Series and Statistical Modeling**
 
+With a strong academic foundation in **Applied Mathematics**, **Optimization**, and **Statistics**, I’m passionate about solving complex problems through AI and delivering real-world impact with clean, well-documented code.
+
 ## 🌩️ Cloud Certifications
 
 <p align="center">
@@ -28,7 +30,15 @@ I hold professional certifications from all three major cloud providers:
 - 🟨 AWS Certified Machine Learning – Specialty  
 - 🟥 Google Cloud Professional Machine Learning Engineer  
 
-With a strong academic foundation in **Applied Mathematics**, **Optimization**, and **Statistics**, I’m passionate about solving complex problems through AI and delivering real-world impact with clean, well-documented code.
+## Repositories
+
+**ML/AI Lab: 🧠**
+
+This is the space where I upload differents reviews of AI and ML Contents plus code!  
+
+🔗 (https://github.com/anvaldes/AI_ML_Lab)
+
+## 📩 Contact
 
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
 
