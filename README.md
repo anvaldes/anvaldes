@@ -37,13 +37,6 @@ I hold professional certifications from all three major cloud providers:
 🔗 (https://github.com/anvaldes/AI_ML_Lab)
 
 **🟨 Data & ML Projects on AWS:**
-- 📁 [Proyecto 1 - Data Pipeline (GCP)](https://github.com/anvaldes/proyecto_1_data_gcp)
-- 🤖 [Proyecto 1 - ML Pipeline (GCP)](https://github.com/anvaldes/proyecto_1_ml_gcp)
-- 📁 [Proyecto 2 - Data Pipeline (GCP)](https://github.com/anvaldes/proyecto_2_data_gcp)
-- 🤖 [Proyecto 2 - ML Pipeline (GCP)](https://github.com/anvaldes/proyecto_2_ml_gcp)
-- ⚙️ [Proyecto 2 - ML Pipeline GPU (GCP)](https://github.com/anvaldes/proyecto_2_ml_gcp_gpu)
-
-**🟥 Data & ML Projects on GCP:**
 - 📁 [Proyecto 1 - Data Pipeline (AWS)](https://github.com/anvaldes/proyecto_1_data_aws)
 - 🤖 [Proyecto 1 - ML Pipeline [Hyperparameter Tuning, Built in] (AWS)](https://github.com/anvaldes/proyecto_1_ml_aws_hpt_built_in)
 - 🤖 [Proyecto 1 - ML Pipeline [Hyperparameter Tuning, Custom] (AWS)](https://github.com/anvaldes/proyecto_1_ml_aws_hpt_custom)
@@ -53,6 +46,13 @@ I hold professional certifications from all three major cloud providers:
 - 📁 [Proyecto 2 - Data Pipeline [Terraform] (AWS)](https://github.com/anvaldes/proyecto_2_data_aws_terraform)
 - 🤖 [Proyecto 2 - ML Pipeline (AWS)](https://github.com/anvaldes/proyecto_2_ml_aws)
 - ⚙️ [Proyecto 2 - ML Pipeline GPU (AWS)](https://github.com/anvaldes/proyecto_2_ml_aws_gpu)
+
+**🟥 Data & ML Projects on GCP:**
+- 📁 [Proyecto 1 - Data Pipeline (GCP)](https://github.com/anvaldes/proyecto_1_data_gcp)
+- 🤖 [Proyecto 1 - ML Pipeline (GCP)](https://github.com/anvaldes/proyecto_1_ml_gcp)
+- 📁 [Proyecto 2 - Data Pipeline (GCP)](https://github.com/anvaldes/proyecto_2_data_gcp)
+- 🤖 [Proyecto 2 - ML Pipeline (GCP)](https://github.com/anvaldes/proyecto_2_ml_gcp)
+- ⚙️ [Proyecto 2 - ML Pipeline GPU (GCP)](https://github.com/anvaldes/proyecto_2_ml_gcp_gpu)
 
 ## 📩 Contact
 
