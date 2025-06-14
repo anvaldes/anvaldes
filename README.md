@@ -57,6 +57,8 @@ I hold professional certifications from all three major cloud providers:
 **🤖 AI Engineer Projects:**
 - 🔍 [Chatbot RAG - Dev](https://github.com/anvaldes/chatbot_RAG_dev)
 - 🔍 [Chatbot RAG - Prod Local](https://github.com/anvaldes/chatbot_RAG_prod_local)
+- 📡 [AI Agent 1](https://github.com/anvaldes/ai_agent_1)
+- 📡 [AI Agent 2](https://github.com/anvaldes/ai_agent_2)
 
 ## 📩 Contact
 
