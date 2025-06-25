@@ -59,6 +59,7 @@ I hold professional certifications from all three major cloud providers:
 - 🤖 [Proyecto 1 - ML Pipeline [Hyperparameter Tuning] (Azure)](https://github.com/anvaldes/proyecto_1_ml_azure_hpt)
 - 🤖 [Proyecto 1 - ML Pipeline (Azure)](https://github.com/anvaldes/proyecto_1_ml_azure_pipeline)
 - 📁 [Proyecto 2 - Data Pipeline (Azure)](https://github.com/anvaldes/proyecto_2_data_azure)
+- 🤖 [Proyecto 2 - ML Pipeline (Azure)](https://github.com/anvaldes/proyecto_2_ml_azure)
 
 **🤖 AI Engineer Projects:**
 - 🔍 [Chatbot RAG - Dev](https://github.com/anvaldes/chatbot_RAG_dev)
