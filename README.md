@@ -26,9 +26,9 @@ With a strong academic foundation in **Applied Mathematics**, **Optimization**, 
 
 I hold professional certifications from all three major cloud providers:
 
-- 🟨 AWS Certified Machine Learning – Specialty
-- 🟥 Google Cloud Professional Machine Learning Engineer    
-- 🟦 Microsoft Azure AI Engineer Associate  
+- 🟨 [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/1e3275e2-d697-4990-86c6-747d9381afbd/public_url)
+- 🟥 [Google Cloud Professional Machine Learning Engineer](https://www.credly.com/badges/3db1493e-cd2a-4af9-ae30-94cced9c5922/public_url)
+- 🟦 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/es-mx/AlbertoAndrsValdsGonzlez-3252/A7E0820F404909B7?sharingId=155C173A91C1B5E3)
 
 ## Repositories
 
@@ -74,6 +74,6 @@ I hold professional certifications from all three major cloud providers:
 
 📫 alberto.valdes.gonzalez.96@gmail.com
 
-🔗 [Linkr](https://linkr.bio/beto_valdes_g)
+🔗 [Linktree](https://linktr.ee/beto_valdes_g)
 
 💼 [Linkedin](https://www.linkedin.com/in/alberto-andres-valdes-gonzalez)
