@@ -67,6 +67,7 @@ I hold professional certifications from all three major cloud providers:
 - 🔍 [Chatbot RAG - Prod Local](https://github.com/anvaldes/chatbot_RAG_prod_local)
 - 📡 [AI Agent 1](https://github.com/anvaldes/ai_agent_1)
 - 📡 [AI Agent 2](https://github.com/anvaldes/ai_agent_2)
+- 🦜 [Gemini, Langraph, Chainlit, CloudRun](https://github.com/anvaldes/cloudrun_chainlit_lg)
 
 ## 📩 Contact
 
