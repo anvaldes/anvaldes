@@ -16,7 +16,7 @@ Some of the areas I work in include:
 
 With a strong academic foundation in **Applied Mathematics**, **Optimization**, and **Statistics**, I’m passionate about solving complex problems through AI and delivering real-world impact with clean, well-documented code.
 
-## 🌩️ sklearn-migrator
+## 📦 sklearn-migrator
 
 I'm also the creator of [`sklearn-migrator`](https://github.com/anvaldes/sklearn-migrator), a Python library designed to serialize and migrate `scikit-learn` models across incompatible versions — helping teams manage long-term model compatibility and portability in production environments.
 
