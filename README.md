@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alberto Valdés
 
-I'm a Machine Learning & AI Engineer with over 4 years of experience designing, deploying, and leading end-to-end AI solutions across sectors like consulting, banking, insurance, and investment.
+I'm a ML/AI Engineer and MLOps with over 4 years of experience designing, deploying, and leading end-to-end AI solutions across sectors like consulting, banking, insurance, and investment.
 
 My work focuses on building robust and scalable ML/AI systems using cloud platforms such as **AWS**, **GCP**, **Azure**, and **Databricks**. I specialize in both **Data Pipelines** and **ML Pipelines**, working with structured and unstructured data (text, images, video, audio) in batch and streaming environments.
 
