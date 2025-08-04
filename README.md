@@ -20,6 +20,10 @@ With a strong academic foundation in **Applied Mathematics**, **Optimization**, 
 
 I'm also the creator of [`sklearn-migrator`](https://github.com/anvaldes/sklearn-migrator), a Python library designed to serialize and migrate `scikit-learn` models across incompatible versions — helping teams manage long-term model compatibility and portability in production environments.
 
+<p align="center">
+  <img src="images/Logo_latera.png" alt="sklearn-migrator" width="200"/>
+</p>
+
 [![PyPI version](https://badge.fury.io/py/sklearn-migrator.svg)](https://pypi.org/project/sklearn-migrator/)
 
 ## 🌩️ Cloud Certifications
