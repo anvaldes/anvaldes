@@ -26,6 +26,7 @@ I'm also the creator of [`sklearn-migrator`](https://github.com/anvaldes/sklearn
 
 [![PyPI version](https://badge.fury.io/py/sklearn-migrator.svg)](https://pypi.org/project/sklearn-migrator/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16790738.svg)](https://doi.org/10.5281/zenodo.16790738)
+[![status](https://joss.theoj.org/papers/01034c04e916eec49f359b1b81a42626/status.svg)](https://joss.theoj.org/papers/01034c04e916eec49f359b1b81a42626)
 
 ## 🌩️ Cloud Certifications
 
