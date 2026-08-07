@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alberto Valdés
 
-I'm a ML/AI Engineer and MLOps with over 4 years of experience designing, deploying, and leading end-to-end AI solutions across sectors like consulting, banking, insurance, and investment.
+I'm a Lead MLOps & AI Engineer with 5+ years of experience designing, deploying, and leading end-to-end AI solutions across fintech, banking, insurance, and consulting. I've led teams of up to 6 AI/ML Engineers and built LLM-based multi-agent systems generating over USD 1M in annual gross profit.
 
-My work focuses on building robust and scalable ML/AI systems using cloud platforms such as **AWS**, **GCP**, **Azure**, and **Databricks**. I specialize in both **Data Pipelines** and **ML Pipelines**, working with structured and unstructured data (text, images, video, audio) in batch and streaming environments.
+My work focuses on building robust, scalable ML/AI systems on **AWS**, **GCP**, **Azure**, and **Databricks** — spanning both **Data Pipelines** and **ML Pipelines**, and working with structured and unstructured data (text, images, video, audio) in batch and streaming environments.
 
 Some of the areas I work in include:
 
@@ -25,22 +25,36 @@ I'm also the creator of [`sklearn-migrator`](https://github.com/anvaldes/sklearn
 </p>
 
 [![PyPI version](https://badge.fury.io/py/sklearn-migrator.svg)](https://pypi.org/project/sklearn-migrator/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20084523.svg)](https://doi.org/10.5281/zenodo.20084523)
+[![Downloads](https://static.pepy.tech/badge/sklearn-migrator)](https://pepy.tech/project/sklearn-migrator)
 [![status](https://joss.theoj.org/papers/10.21105/joss.10374/status.svg)](https://joss.theoj.org/papers/10.21105/joss.10374)
+
+## 📄 Publications
+
+I'm the lead author of **["Cost-Aware Model Selection for Text Classification: Multi-Objective Trade-offs Between Fine-Tuned Encoders and LLM Prompting in Production"](https://arxiv.org/abs/2602.06370)**, published on arXiv (cs.CL), comparing fine-tuned encoders (BERT, RoBERTa, DistilBERT) against LLMs (GPT-4o, Claude Sonnet 4.5) under a multi-objective framework (F1, latency, and cost).
 
 ## 🌩️ Cloud Certifications
 
 <p align="center">
-  <img src="images/AWS_C.png" alt="AWS" width="200"/>
-  <img src="images/GCP_C.png" alt="GCP" width="200"/>
-  <img src="images/Azure_C.png" alt="Azure" width="200"/>
+  <img src="images/AWS_ML_C.png" alt="AWS" width="200"/>
+  <img src="images/GCP_ML_C.png" alt="GCP" width="200"/>
+  <img src="images/Azure_AI_C.png" alt="Azure" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/GCP_AR_C.png" alt="GCP" width="200"/>
 </p>
 
 I hold professional certifications from all three major cloud providers:
 
+### Machine Learning & AI
+
 - 🟨 [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/1e3275e2-d697-4990-86c6-747d9381afbd/public_url)
 - 🟥 [Google Cloud Professional Machine Learning Engineer](https://www.credly.com/badges/3db1493e-cd2a-4af9-ae30-94cced9c5922/public_url)
 - 🟦 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/es-mx/AlbertoAndrsValdsGonzlez-3252/A7E0820F404909B7?sharingId=155C173A91C1B5E3)
+
+### Architect
+
+- 🟥 [Google Cloud Professional Cloud Architect](https://www.credly.com/badges/e483a178-c549-4e2d-a39d-bc4ad0701a2e)
 
 ## Repositories
 
