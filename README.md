@@ -88,12 +88,15 @@ I hold professional certifications from all three major cloud providers:
 - 🤖 [Proyecto 2 - ML Pipeline (Azure)](https://github.com/anvaldes/proyecto_2_ml_azure)
 - ⚙️ [Proyecto 2 - ML Pipeline [GPU] (Azure)](https://github.com/anvaldes/proyecto_2_ml_azure_gpu)
 
-**🤖 AI Engineer Projects:**
+**💬 LLMs, Agents & Chatbots:**
+- 🔌 [MCPs](https://github.com/anvaldes/MCPs)
+- 🦜 [LangGraph & LangChain Agent](https://github.com/anvaldes/Langraph_Langchain_Agent)
+- 👥 [CrewAI - Classifier & Judge](https://github.com/anvaldes/CrewIA_Classifier_Judge)
 - 🔍 [Chatbot RAG - Dev](https://github.com/anvaldes/chatbot_RAG_dev)
 - 🔍 [Chatbot RAG - Prod Local](https://github.com/anvaldes/chatbot_RAG_prod_local)
 - 📡 [AI Agent 1](https://github.com/anvaldes/ai_agent_1)
 - 📡 [AI Agent 2](https://github.com/anvaldes/ai_agent_2)
-- 🦜 [Gemini, Langraph, Chainlit, CloudRun](https://github.com/anvaldes/cloudrun_chainlit_lg)
+- 🦜 [Gemini, LangGraph, Chainlit, CloudRun](https://github.com/anvaldes/cloudrun_chainlit_lg)
 
 ## 📩 Contact
 
