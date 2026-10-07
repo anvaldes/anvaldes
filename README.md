@@ -98,6 +98,10 @@ I hold professional certifications from all three major cloud providers:
 - 📡 [AI Agent 2](https://github.com/anvaldes/ai_agent_2)
 - 🦜 [Gemini, LangGraph, Chainlit, CloudRun](https://github.com/anvaldes/cloudrun_chainlit_lg)
 
+**🎯 MLflow, Optuna & Multiclass Calibration:**
+
+- 🏠 [Optuna, Multiclass Calibration and MLflow](https://github.com/anvaldes/optuna-mlflow-calibration)
+
 ## 📩 Contact
 
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
