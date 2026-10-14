@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alberto Valdés
 
-I'm a Lead MLOps & AI Engineer with 5+ years of experience designing, deploying, and leading end-to-end AI solutions across fintech, banking, insurance, and consulting. I've led teams of up to 6 AI/ML Engineers and built LLM-based multi-agent systems generating over USD 1M in annual gross profit.
+I'm a Lead MLOps & AI Engineer with 5+ years of experience designing, deploying, and leading end-to-end Data, ML and AI solutions across fintech, banking, insurance, and consulting. I've led teams of up to 6 AI/ML Engineers and built LLM-based multi-agent systems generating over USD 1M in annual gross profit.
 
 My work focuses on building robust, scalable ML/AI systems on **AWS**, **GCP**, **Azure**, and **Databricks** — spanning both **Data Pipelines** and **ML Pipelines**, and working with structured and unstructured data (text, images, video, audio) in batch and streaming environments.
 
