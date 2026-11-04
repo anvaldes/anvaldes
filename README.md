@@ -102,6 +102,10 @@ I hold professional certifications from all three major cloud providers:
 
 - 🏠 [Optuna, Multiclass Calibration and MLflow](https://github.com/anvaldes/optuna-mlflow-calibration)
 
+**🧠 LLM Fine-tuning:**
+
+- 🏷️ [Fine-tuning LLM for Classification](https://github.com/anvaldes/Finetunning_LLM_Classification)
+
 ## 📩 Contact
 
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
