@@ -104,7 +104,8 @@ I hold professional certifications from all three major cloud providers:
 
 **🧠 LLM Fine-tuning:**
 
-- 🏷️ [Fine-tuning LLM for Classification](https://github.com/anvaldes/Finetunning_LLM_Classification)
+- 🗂️ [Fine-tuning LLM for Classification](https://github.com/anvaldes/Finetunning_LLM_Classification)
+- 💬 [Fine-tuning LLM for Generation](https://github.com/anvaldes/Finetunning_LLM_Generative)
 
 ## 📩 Contact
 
