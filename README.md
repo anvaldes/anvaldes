@@ -107,6 +107,10 @@ I hold professional certifications from all three major cloud providers:
 - 🗂️ [Fine-tuning LLM for Classification](https://github.com/anvaldes/Finetunning_LLM_Classification)
 - 💬 [Fine-tuning LLM for Generation](https://github.com/anvaldes/Finetunning_LLM_Generative)
 
+**🎮 Reinforcement Learning:**
+
+- 🕹️ [Reinforcement Learning](https://github.com/anvaldes/Reinforcement_Learning)
+
 ## 📩 Contact
 
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
