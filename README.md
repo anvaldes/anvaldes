@@ -112,6 +112,10 @@ I hold professional certifications from all three major cloud providers:
 
 - 🕹️ [Reinforcement Learning](https://github.com/anvaldes/Reinforcement_Learning)
 
+**🛍️ Recommendation Systems:**
+
+- 🎯 [Recommendation Systems](https://github.com/anvaldes/Recommendation_Systems)
+
 ## 📩 Contact
 
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
