@@ -120,6 +120,10 @@ I hold professional certifications from all three major cloud providers:
 
 - 🪝 [GitHub Webhook to GCS](https://github.com/anvaldes/github-webhook-to-gcs)
 
+**🌊 Streaming & Lakehouse:**
+
+- 🏞️ [Wikimedia Lakehouse with Kafka](https://github.com/anvaldes/wikimedia-lakehouse-kafka)
+
 ## 📩 Contact
 
 💡 Feel free to explore my repositories to see some of the projects I’ve worked on — and don’t hesitate to reach out!
